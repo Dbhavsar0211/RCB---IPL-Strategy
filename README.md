@@ -4,6 +4,8 @@ Strategic Performance Analysis for Royal Challengers Bangalore (RCB)
 Description: Acted as a Sports Data Analyst to develop a data-driven strategy for the RCB franchise ahead of the 2017 mega auction. The goal was to optimize player recruitment and match-day tactics by analyzing historical IPL data (ball-by-ball, player stats, and venue metrics) using complex SQL queries.
 
 Key Insights & Contributions:
+
+
 1.Auction Strategy: Identified high-impact all-rounders (e.g., Watson and Jadeja) and consistent match-winners (V. Kohli, AB de Villiers) by calculating advanced metrics like Batting Average per Season and Wickets per Venue.
 
 
